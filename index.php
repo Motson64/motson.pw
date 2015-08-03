@@ -5,5 +5,5 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-echo '123';
+echo 1+3+4;
 ?>
