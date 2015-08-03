@@ -1,2 +1,6 @@
 /nbproject/private/
 /nbproject/
+/vendor
+/node_modules
+Homestead.yaml
+.env
